@@ -1,0 +1,13 @@
+mapped_name : depth
+air_pressure : 0.0
+air_temperature : -5.0
+mole_concentration_of_dissolved_inorganic_carbon_in_sea_water : 0.0
+partial_pressure_of_carbon_dioxide_in_sea_water : 5.0
+relative_humidity : 2.0
+sea_water_density : 2.0
+sea_water_ph_reported_on_total_scale : 5.0
+sea_water_pressure : 10.0
+sea_water_salinity : 10.0
+sea_water_temperature : 5.0
+specific_turbulent_kinetic_energy_dissipation_in_sea_water : 37.0
+wind_speed : 2.0

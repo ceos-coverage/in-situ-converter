@@ -1,0 +1,68 @@
+
+
+dataset_uuid: 0ab61c49-f6b2-3769-ba35-3bb7f58a2736  
+selected: https://podaac-opendap.jpl.nasa.gov/opendap/allData/insitu/L2/spurs1/ctd/
+
+have to FIX time (dataframe column time is not part of coordinates; dataset doesn't have coordinates)
+
+---------- LOGS ----------
+
+selected_file_source_ids: 0ce67a52-73d8-3e84-9758-fa853b685b60,1529c11a-8c61-3561-9abb-ff815126bfd3,53a592b6-1a9c-3a59-ae47-c55d7160b6dd
+Data for: 0ce67a52-73d8-3e84-9758-fa853b685b60
+df_cols: time,z,lon,lat,salinity1
+df_to_csv_dict: {'time': 'time', 'z': 'depth', 'lon': 'longitude', 'lat': 'latitude', 'salinity1': 'sea_water_salinity'}
+                 time         z        lon        lat  salinity1
+0 2013-03-18 14:53:52       NaN -62.142334  33.906334        NaN
+1 2013-03-18 14:53:52  1.985737 -62.142334  33.906334  36.526901
+2 2013-03-18 14:53:52  2.978598 -62.142334  33.906334  36.527401
+csv coord/var: time not in csv header cols - THIS SHOULD NOT HAPPEN.
+appending csv_col: depthat csv_idx: 42 value: nan for df_col: z
+appending csv_col: longitudeat csv_idx: 51 value: -62.142333984375 for df_col: lon
+appending csv_col: latitudeat csv_idx: 50 value: 33.906333923339844 for df_col: lat
+appending csv_col: sea_water_salinityat csv_idx: 84 value: nan for df_col: salinity1
+['0ab61c49-f6b2-3769-ba35-3bb7f58a2736', '0ce67a52-73d8-3e84-9758-fa853b685b60', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', nan, '', '', '', '', '', '', '', 33.906333923339844, -62.142333984375, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', nan, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+csv coord/var: time not in csv header cols - THIS SHOULD NOT HAPPEN.
+appending csv_col: depthat csv_idx: 42 value: 1.9857369661331177 for df_col: z
+appending csv_col: longitudeat csv_idx: 51 value: -62.142333984375 for df_col: lon
+appending csv_col: latitudeat csv_idx: 50 value: 33.906333923339844 for df_col: lat
+appending csv_col: sea_water_salinityat csv_idx: 84 value: 36.52690124511719 for df_col: salinity1
+['0ab61c49-f6b2-3769-ba35-3bb7f58a2736', '0ce67a52-73d8-3e84-9758-fa853b685b60', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 1.9857369661331177, '', '', '', '', '', '', '', 33.906333923339844, -62.142333984375, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 36.52690124511719, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+csv coord/var: time not in csv header cols - THIS SHOULD NOT HAPPEN.
+appending csv_col: depthat csv_idx: 42 value: 2.978598117828369 for df_col: z
+appending csv_col: longitudeat csv_idx: 51 value: -62.142333984375 for df_col: lon
+appending csv_col: latitudeat csv_idx: 50 value: 33.906333923339844 for df_col: lat
+appending csv_col: sea_water_salinityat csv_idx: 84 value: 36.527400970458984 for df_col: salinity1
+['0ab61c49-f6b2-3769-ba35-3bb7f58a2736', '0ce67a52-73d8-3e84-9758-fa853b685b60', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 2.978598117828369, '', '', '', '', '', '', '', 33.906333923339844, -62.142333984375, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 36.527400970458984, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+reached max_records_per_file: 3
+Data for: 1529c11a-8c61-3561-9abb-ff815126bfd3
+df_cols: temperature,conductivity
+df_to_csv_dict: {'temperature': 'sea_water_temperature', 'conductivity': 'sea_water_electrical_conductivity'}
+   temperature  conductivity
+0    19.866800      4.451936
+1    19.870399      4.924749
+2    19.871300      4.925278
+appending csv_col: sea_water_temperatureat csv_idx: 87 value: 19.8668 for df_col: temperature
+appending csv_col: sea_water_electrical_conductivityat csv_idx: 79 value: 4.4519362 for df_col: conductivity
+['0ab61c49-f6b2-3769-ba35-3bb7f58a2736', '1529c11a-8c61-3561-9abb-ff815126bfd3', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 4.4519362, '', '', '', '', '', '', '', 19.8668, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+appending csv_col: sea_water_temperatureat csv_idx: 87 value: 19.8704 for df_col: temperature
+appending csv_col: sea_water_electrical_conductivityat csv_idx: 79 value: 4.9247494 for df_col: conductivity
+['0ab61c49-f6b2-3769-ba35-3bb7f58a2736', '1529c11a-8c61-3561-9abb-ff815126bfd3', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 4.9247494, '', '', '', '', '', '', '', 19.8704, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+appending csv_col: sea_water_temperatureat csv_idx: 87 value: 19.8713 for df_col: temperature
+appending csv_col: sea_water_electrical_conductivityat csv_idx: 79 value: 4.9252777 for df_col: conductivity
+['0ab61c49-f6b2-3769-ba35-3bb7f58a2736', '1529c11a-8c61-3561-9abb-ff815126bfd3', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 4.9252777, '', '', '', '', '', '', '', 19.8713, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+reached max_records_per_file: 3
+Data for: 53a592b6-1a9c-3a59-ae47-c55d7160b6dd
+df_cols: salinity
+df_to_csv_dict: {'salinity': 'sea_water_salinity'}
+    salinity
+0  36.376400
+1  36.470600
+2  36.516701
+appending csv_col: sea_water_salinityat csv_idx: 84 value: 36.3764 for df_col: salinity
+['0ab61c49-f6b2-3769-ba35-3bb7f58a2736', '53a592b6-1a9c-3a59-ae47-c55d7160b6dd', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 36.3764, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+appending csv_col: sea_water_salinityat csv_idx: 84 value: 36.4706 for df_col: salinity
+['0ab61c49-f6b2-3769-ba35-3bb7f58a2736', '53a592b6-1a9c-3a59-ae47-c55d7160b6dd', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 36.4706, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+appending csv_col: sea_water_salinityat csv_idx: 84 value: 36.5167 for df_col: salinity
+['0ab61c49-f6b2-3769-ba35-3bb7f58a2736', '53a592b6-1a9c-3a59-ae47-c55d7160b6dd', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 36.5167, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']
+reached max_records_per_file: 3
+Done.

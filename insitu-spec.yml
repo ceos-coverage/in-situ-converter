@@ -1,0 +1,4 @@
+name: insitu
+channels:
+  - defaults
+prefix: /Users/vyathira/anaconda3/envs/insitu

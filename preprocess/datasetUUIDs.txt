@@ -1,0 +1,38 @@
+dataset_uuid : dataset_name
+4d616892-cf15-3a52-b95d-27042d8bb834 : SPURS-1 shipboard Acoustic Doppler Current Profiler data for N. Atlantic Endeavor and Knorr cruises
+58618493-8c1a-361a-9663-376cd6760dbf : Argo float CTD profile data within the scope of the SPURS-1 N. Atlantic field campaign
+7fc14fab-7d9d-381b-a78a-d9db1cd7bff9 : SPURS-1 research vessel CTD profile data for N. Atlantic cruises
+65ed8df9-82fe-3bae-8efa-af6174f70e8f : Drifter data for the SPURS-1 N. Atlantic field campaign
+0e4be561-0b62-3cb4-91f4-a4149ef4a118 : Ecomapper data for the SPURS-1 N. Atlantic field campaign
+80fb7029-4c69-399e-8c25-8726433a78c2 : Neutrally buoyant float data for the SPURS-1 N. Atlantic field campaign
+875e1129-260d-32b7-a851-63b4cce3d9d9 : SPURS-1 research vessel Meteorological series data for N. Atlantic Endeavor cruises
+25a18333-ef81-344e-9678-d1dbc0ef7fea : PICO Mooring data for the SPURS-1 N. Atlantic field campaign
+fcf18578-81f2-3317-abc4-7d450ff4f03f : WHOI mooring CTD, surface flux and meterorological data for the SPURS-1 N. Atlantic field campaign
+da515a53-5e30-3237-9481-25ccfe5b3fde : Seaglider CTD data for the SPURS-1 N. Atlantic field campaign
+ac14cccc-3c91-3fc1-8c5e-16ab7d7ad4b9 : Seasoar CTD data for the SPURS-1 N. Atlantic field campaign
+6587497f-d6ce-3d82-8782-ec35194623b0 : Tenuse Glider CTD data for the SPURS-1 N. Atlantic field campaign
+35a94a0f-1823-32d9-8058-258f8af1125d : SPURS-1 research vessel Thermosalinograph series data for N. Atlantic cruises
+a81cbebf-ad12-3a00-948e-c93e04dd2616 : SPURS-1 research vessel Underway-CTD trajectory profile data for N. Atlantic Endeavor and Knorr cruises
+0e69f0a3-2c7f-3d54-8487-1c3465f2445f : Waveglider data for the SPURS-1 N. Atlantic field campaign
+f4b720ab-2945-3d41-9594-c5090ef1a41b : SPURS-2 shipboard Acoustic Doppler Current Profiler data for E. Tropical Pacific R/V Revelle cruises
+bf40a9f2-c005-3ddf-8573-1f93c52953dd : SPURS-2 Argo float CTD profile data from the E. Tropical Pacific field campaign
+e0212afc-92c5-3514-91e6-3d58674b1fa9 : SPURS-2 research vessel CTD profile data for E. Tropical Pacific R/V Revelle cruises
+268836c5-3ef3-3ea1-8ef9-a840f9568df8 : SPURS-2 Drifter data for the E. Tropical Pacific field campaign
+cd5a97db-358a-3571-b53e-0b077f4c1792 : SPURS-2 Neutrally buoyant float data for the E. Tropical Pacific field campaign
+a6611024-015b-3120-a5ee-372f9db8dda0 : SPURS-2 S/V Lady Amber underway Thermosalinograph and Sea Snake data for the E. Tropical Pacific field campaign
+35b4ebc2-4500-3812-b879-590888836516 : SPURS-2 Research vessel Meteorological series data for the E. Tropical Pacific field campaign R/V Revelle cruises
+08c2eb5a-2238-3da9-8806-ac6891c7e900 : SPURS-2 Central mooring CTD, surface flux and meterorological data for the E. Tropical Pacific field campaign
+cc7d2f56-a853-39af-824d-73b521a5edb2 : SPURS-2 PICO mooring data for the E. Tropical Pacific field campaign
+b621115b-547e-39f0-812d-88477563ecdd : SPURS-2 Passive Accoustic Listener (PAL) data from ARGO float deployments during the E. Tropical Pacific field campaign
+69eec7f6-8e91-3210-8ce3-f5ebb70856b5 : SPURS-2 research vessel along track SEA-POL rain radar imaging data for E. Tropical Pacific R/V Revelle-2 cruise
+35b748b3-1aeb-3c56-9f98-0c43972b7904 : SPURS-2 Rawinsonde meteorological data for the E. Tropical Pacific field campaign R/V Revelle cruises
+233fcbc8-f569-3865-a904-594fbfb83acf : SPURS-2 Saildrone data for the E. Tropical Pacific field campaign
+32b0c2db-8327-3988-9af3-ea97b39e15d2 : SPURS-2 Surface Salinity Snake data for the E. Tropical Pacific field campaign R/V Revelle cruises
+8c1b5136-2730-3c95-ba91-3ce823678106 : SPURS-2 Seaglider data for the E. Tropical Pacific field campaign
+83871d9b-38aa-35fc-afed-4620c4083b00 : SPURS-2 Towed surface salinity profile (SSP) data for the E. Tropical Pacific R/V Revelle cruises
+9a5aa718-87ee-33a1-ab07-174ce6a9713c : SPURS-2 research vessel Underway CTD (uCTD) data for the E. Tropical Pacific R/V Revelle cruises
+b01e7497-29e2-3e1b-aeff-ff93f9987a48 : SPURS-2 underway surface pCO2, DIC and pH data for the E. Tropical Pacific field campaign R/V Revelle cruises
+0ec05b0d-9122-3303-8a1f-d2c144a88f44 : SPURS-2 research vessel Underway Salinity Profiling System (USPS) data for the E. Tropical Pacific R/V Revelle cruises
+650a29c0-c5b6-3d18-8179-1de6791f2c9a : SPURS-2 research vessel along track WAMOS wave radar data for the second R/V Revelle cruise in the E. Tropical Pacific
+5047b946-511e-30ce-8b61-97c01f1ebd61 : SPURS-2 Waveglider data for the E. Tropical Pacific field campaign
+0ab61c49-f6b2-3769-ba35-3bb7f58a2736 : SPURS-2 research vessel Expendable Bathythermograph (XBT) profile data for E. Tropical Pacific R/V Revelle cruises

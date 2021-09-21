@@ -1,0 +1,35 @@
+SPURS-1 shipboard Acoustic Doppler Current Profiler data for N. Atlantic Endeavor and Knorr cruises
+Argo float CTD profile data within the scope of the SPURS-1 N. Atlantic field campaign
+SPURS-1 research vessel CTD profile data for N. Atlantic cruises
+Drifter data for the SPURS-1 N. Atlantic field campaign
+Ecomapper data for the SPURS-1 N. Atlantic field campaign
+Neutrally buoyant float data for the SPURS-1 N. Atlantic field campaign
+SPURS-1 research vessel Meteorological series data for N. Atlantic Endeavor cruises
+PICO Mooring data for the SPURS-1 N. Atlantic field campaign
+WHOI mooring CTD, surface flux and meterorological data for the SPURS-1 N. Atlantic field campaign
+Seaglider CTD data for the SPURS-1 N. Atlantic field campaign
+Seasoar CTD data for the SPURS-1 N. Atlantic field campaign
+Tenuse Glider CTD data for the SPURS-1 N. Atlantic field campaign
+SPURS-1 research vessel Thermosalinograph series data for N. Atlantic cruises
+SPURS-1 research vessel Underway-CTD trajectory profile data for N. Atlantic Endeavor and Knorr cruises
+Waveglider data for the SPURS-1 N. Atlantic field campaign
+SPURS-2 shipboard Acoustic Doppler Current Profiler data for E. Tropical Pacific R/V Revelle cruises
+SPURS-2 Argo float CTD profile data from the E. Tropical Pacific field campaign
+SPURS-2 research vessel CTD profile data for E. Tropical Pacific R/V Revelle cruises
+SPURS-2 Drifter data for the E. Tropical Pacific field campaign
+SPURS-2 Neutrally buoyant float data for the E. Tropical Pacific field campaign
+SPURS-2 S/V Lady Amber underway Thermosalinograph and Sea Snake data for the E. Tropical Pacific field campaign
+SPURS-2 Research vessel Meteorological series data for the E. Tropical Pacific field campaign R/V Revelle cruises
+SPURS-2 Central mooring CTD, surface flux and meterorological data for the E. Tropical Pacific field campaign
+SPURS-2 PICO mooring data for the E. Tropical Pacific field campaign
+SPURS-2 Passive Accoustic Listener (PAL) data from ARGO float deployments during the E. Tropical Pacific field campaign
+SPURS-2 Saildrone data for the E. Tropical Pacific field campaign
+SPURS-2 Surface Salinity Snake data for the E. Tropical Pacific field campaign R/V Revelle cruises
+SPURS-2 Seaglider data for the E. Tropical Pacific field campaign
+SPURS-2 Towed surface salinity profile (SSP) data for the E. Tropical Pacific R/V Revelle cruises
+SPURS-2 research vessel Underway CTD (uCTD) data for the E. Tropical Pacific R/V Revelle cruises
+SPURS-2 underway surface pCO2, DIC and pH data for the E. Tropical Pacific field campaign R/V Revelle cruises
+SPURS-2 research vessel Underway Salinity Profiling System (USPS) data for the E. Tropical Pacific R/V Revelle cruises
+SPURS-2 research vessel along track WAMOS wave radar data for the second R/V Revelle cruise in the E. Tropical Pacific
+SPURS-2 Waveglider data for the E. Tropical Pacific field campaign
+SPURS-2 research vessel Expendable Bathythermograph (XBT) profile data for E. Tropical Pacific R/V Revelle cruises
