@@ -16,11 +16,11 @@
 
 
 3. To copy the files into the folder locally:
-   scp -r <local_folder> vyathira@oiip:/data/home/vyathira
+   scp -r <local_folder> userid@oiip:/data/home/userid
 
 
 To run jupyter notebook on oiip server:
-ssh vyathira@137.78.248.130
+ssh userid@ip
 
 Run this ssh forwarding command on local machine (so that jupyter notebook run in oiip server can be accessed locally):
 ssh -L 8889:localhost:8889 oiip
